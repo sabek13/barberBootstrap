@@ -22,7 +22,7 @@
   }
 
   .border-gold{
-    border-color: black!important;
+    border-color: var(--border-color)!important;
   }
   
  .position-relative {
